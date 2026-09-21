@@ -1,2 +1,2 @@
 # jimar884.github.io
-GitHubPages専用
+https://jimar884.github.io/
